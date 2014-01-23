@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_name">Brain &amp; Puzzle</string>
+    <string name="app_name">Flow Connect</string>
+    <string name="Classic_puzzle">Classic Puzzle</string>
+    <string name="Arcade_Mode">Arcade Mode</string>
+    <string name="Setting">Settings</string>
+    <string name="Help">Help</string>
+    <string name="Help_about">        
+        - Start by dragging the colored dot to match same colored dot with pipes.\n
+        - Goal is to pair up all the colored dots covering the whole board with pipes.\n
+        - You cannot overlap or cross the pipes.\n
+        - Level of difficulty increases as you play on large sized boards.\n
+        - Get into arcade mode and see how many puzzles you can solve in limited time.	</string>
+    <string name="More_Apps">More Apps</string>
+    <string name="Free_Games">FREE Games</string>
+    <string name="Great_job">Great Job!</string>
+
+    <string-array name="Great_job_line">
+        <item>You completed the level</item>
+        <item>in 6 move.</item>
+    </string-array>
+
+    <string name="Congratulation">Congratulations!</string>
+
+    <string-array name="Congratulation_line">
+        <item>You\'ve reached the end of</item>
+        <item>the Regular Pack.</item>
+    </string-array>
+
+    <string name="Select_next_pack">Select next pack</string>
+    <string name="New_record">New record!</string>
+
+    <string-array name="New_record_line">
+        <item>You solved 2 puzzles in</item>
+        <item>30 seconds.</item>
+    </string-array>
+
+    <string name="Time_up">Time\'s up!</string>
+
+    <string-array name="Time_up_line">
+        <item>You solved 2 puzzles in</item>
+        <item>30 seconds.</item>
+    </string-array>
+
+    <string name="Almost_there">Almost there</string>
+
+    <string-array name="Almost_there_line">
+        <item>Fill whole board with pipe to</item>
+        <item>complete the level</item>
+    </string-array>
+    <string-array name="Next_level_play_again">
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="Play_again_quit">
+        <item>Play Again</item>
+        <item>Quit</item>
+    </string-array>
+    <string-array name="Keep_playing_hint">
+        <item>Keep Playing</item>
+        <item>Get a Hint</item>
+    </string-array>
+    <string-array name="namePack">
+        <item>Normal Pack</item>
+        <item>Intermediate Pack</item>
+        <item>Expert Pack (Tablet)</item>
+        <item>Lucky 8 Pack</item>
+        <item>Lucky 9 Pack</item>
+        <item>Lucky 10 Pack</item>
+        <item>Kiddy Pack</item>
+        <item>Fancy Pack</item>
+        <item>Geek Pack</item>
+        <item>Big Pack (Tablet)</item>
+        <item>Grand Pack (Tablet)</item>
+        <item>Flow Savy Pack</item>
+    </string-array>
+    <string-array name="String_time_trail">
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>4 minutes</item>
+        <item>5 minutes</item>
+    </string-array>
+
+    <string name="Time">Time: </string>
+
+    <string-array name="Grid_value">
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+        <item>9x9</item>
+    </string-array>
+
+    <string name="Grid_size">Grid Size: </string>
+    <string name="Sound_on">Sound: On</string>
+    <string name="Sound_off">Sound: Off</string>
+    <string name="Show_label_on">Show Labels: On</string>
+    <string name="Show_label_off">Show Labels: Off</string>
+    <string name="Reset_progress">Reset Progress</string>
+
+    <string-array name="name_pack_grid_select_level">
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>10x10 to 14x14 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+        <item>10x10 grid</item>
+        <item>5x5 and 6x6 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>10x10 to 14x14 grid</item>
+        <item>10x10 to 14x14 grid</item>
+        <item>5x5 to 9x9 grid</item>
+    </string-array>
+
+    <string name="Select_Pack">Select Pack</string>
+    <string name="Select_grid_size">Select Grid Size:</string>
+    <string name="Reset_setting_line">Are you sure to reset all progress? This will reset all levels completed, scores and hints.</string>
+    <string name="Flows">Flows:</string>
+    <string name="Fill">Fill:</string>
+    <string name="Moves">Moves:</string>
+    <string name="Best">Best:</string>
+    <string name="Solved">Solved:</string>
+
+    <string-array name="List_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string name="Start">Start</string>
+    <string name="Select_time_trail">Select Time Trial:</string>
+    <string name="Yes">Yes</string>
+    <string name="Cancel">Cancel</string>
+    <string name="All_progess_resetted">All progess resetted.</string>
+    <string name="Perfect">Perfect!</string>
+    <string name="You_completed_the_level">You completed the level</string>
+    <string name="level">level</string>
+    <string name="board">board</string>
+    <string name="in_the_best_move">in the best move.</string>
+    <string name="in_the_best_move_and_got_2_hints">in the best move and got 2 hints.</string>
+    <string name="countMove_moves_and_got_1_hint">in {COUNT_MOVES} moves and got 1 hint.</string>
+    <string name="in_countMove_moves">in {COUNT_MOVES} moves.</string>
+    <string name="You_solved_countLevelSolved_puzzles_in_timetrail">You solved {COUNT_LEVEL_SOLVED} puzzles in {TIMETRAIL}.</string>
+    <string name="You_reached_the_end_of">You\'ve reached the end of the {NAMEPACK}.</string>
+    <string name="game_name2">Flow Bridge</string>
+    <string name="How_to_play_2">        
+        - Start by dragging the colored dot to match same colored dot with pipes.\n
+        - Goal is to pair up all the colored dots covering the whole board with pipes.\n
+        - You cannot overlap or cross the pipes except in case you encounter a bridge\n
+        - Level of difficulty increases as you play on large sized boards.\n
+        - Get into arcade mode and see how many puzzles you can solve in limited time.        </string>
+
+    <string-array name="Name_Pack_2">
+        <item>Novice Pack</item>
+        <item>Challenge Pack</item>
+        <item>Lucky 9 Pack</item>
+        <item>Classic Pack</item>
+        <item>Bravo Pack</item>
+        <item>7x7 Mania</item>
+        <item>8x8 Mania</item>
+        <item>9x9 Mania</item>
+        <item>10x10 Mania</item>
+        <item>Super Pack</item>
+        <item>Jumbo Pack (tablet)</item>
+    </string-array>
+    <string-array name="Intro_Pack_2">
+        <item>5x5 and 6x6 grid</item>
+        <item>7x7 and 8x8 grid</item>
+        <item>9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>New! 5x5 to 9x9 grid</item>
+        <item>7x7 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+        <item>10x10 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>10x10 to 14x14 grid</item>
+    </string-array>
+
+    <string name="Select_Game">Select a Game</string>
+    <string name="Connect_Dots">Connect Dots</string>
+    <string name="Pause">Pause</string>
+    <string name="Game_Over">Game Over</string>
+    <string name="Free_Play">Free Play</string>
+    <string name="Resume">Resume</string>
+    <string name="Restart">Play Again</string>
+    <string name="Menu">Menu</string>
+    <string name="Highscore">High Score</string>
+    <string name="Trade">Trade</string>
+    <string name="Dots">Dots</string>
+
+    <string-array name="How_to_play">
+        <item>Connect dots of same color to score points.</item>
+        <item>Make a loop to remove all like-colored dots from the board and score more points!</item>
+    </string-array>
+
+    <string name="Time2">Time</string>
+    <string name="Score">Score</string>
+    <string name="You_Have">You have {NUMTOTALDOTS} dots.</string>
+    <string name="Your_Score">You Scored:</string>
+    <string name="Best_Score">Best Score:</string>
+    <string name="Shrink_Off">Select a dot to shrink off the board.</string>
+    <string name="Expend">Select a dot to expand.</string>
+
+    <string-array name="Intro_Trade">
+        <item>Trade the dots for 1 Timer Stop</item>
+        <item>Trade the dots for 1 Shrinker</item>
+        <item>Trade the dots for 1 Expander</item>
+    </string-array>
+
+    <!-- crystal flow -->
+    <string name="Flow_crystal">Crystal Flow</string>
+    <string name="Normal_pack">Normal Pack</string>
+    <string name="m8X8_mania">8x8 Mania</string>
+
+    <string-array name="Keep_playing">
+        <item>Keep Playing</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="select_pack_play_again">
+        <item>Select Pack</item>
+        <item>Play Again</item>
+    </string-array>
+
+    <!-- crystal flow end -->
+
+    <string name="game_name4">Connect 7x7</string>
+    <string name="Level">LEVEL</string>
+    <string name="Score4">SCORE</string>
+    <string name="Combos">COMBOS</string>
+    <string name="Up_Next">UP NEXT</string>
+    <string name="Got_Undo">+1 Undo</string>
+    <string name="Got_MoveAnyWhere">+1 Move Anywhere</string>
+
+    <string-array name="How_to_play4">
+        <item>To clear blocks, simply drag them to match 4 or more of the same color blocks in a row.
+            You can match vertically, horizontally or diagonally.\n\n
+            Move Anywhere: allows a block to be moved to any unoccupied spot on the board.\n\n
+            Made a mistake? Fix it with Undo.</item>
+    </string-array>
+    <string-array name="Lines_To_Next">
+        <item>LINES TO NEXT LEVEL</item>
+        <item>LAST LEVEL</item>
+    </string-array>
+    <string-array name="DialogEnd">
+        <item>Game Over</item>
+        <item>You scored:</item>
+        <item>Best Score:</item>
+        <item>Play Again</item>
+        <item>Quit</item>
+    </string-array>
+
+    <!-- flow Branch start -->
+    <string name="flow_branch">Flow Branch</string>
+    <string name="play_game">Play Game</string>
+    <string name="got">and got</string>
+    <string name="hint">Hint</string>
+
+    <string-array name="pack_name">
+        <item>Normal Pack</item>
+        <item>Intermediate Pack</item>
+        <item>Easy Pack</item>
+        <item>8x8 Mania Pack</item>
+        <item>9x9 Mania Pack</item>
+        <item>Challenge Pack</item>
+        <item>Kiddy Pack</item>
+        <item>Expert Pack(Tablet)</item>
+    </string-array>
+    <string-array name="grid_name">
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 6x6 grid</item>
+        <item>8x8 only</item>
+        <item>9x9 only</item>
+        <item>10x10 to 12x12 grid</item>
+        <item>5x5 to 6x6 grid</item>
+        <item>10x10 to 14x14 grid</item>
+    </string-array>
+    <string-array name="end_game">
+        <item>Great Job!</item>
+        <item>Well Done!</item>
+        <item>You completed the level</item>
+        <item>Next Level</item>
+    </string-array>
+    <string-array name="Keep_play">
+        <item>Next Level</item>
+        <item>Keep Playing</item>
+    </string-array>
+    <!-- flow Branch end -->
+
+
+    <!-- Bust and flow start -->
+    <string name="game_name5">Bust and Flow</string>
+    <string name="Completed_Level">Level Completed</string>
+    <string name="Next_Level">Next Level</string>
+    <string name="Target">Target:</string>
+
+    <string-array name="Target">
+        <item>You Scored: </item>
+        <item>Target:</item>
+        <item>Couldn\'t reach target:</item>
+    </string-array>
+    <string-array name="How_to_play5">
+        <item>Keep bustin to keep flown!\n\n
+            Bust same color dots.\n\n
+            The more the better.\n\n
+            Get enough score to reach target and move on to next level.</item>
+    </string-array>
+    <!-- Bust and flow end -->
+
+    <string name="game_name6">Connect Odd Dots</string>
+
+    <string-array name="Name_Pack6">
+        <item>Normal Pack</item>
+        <item>Extender Pack</item>
+        <item>Hard Pack</item>
+    </string-array>
+    <string-array name="Intro_Pack6">
+        <item>6x6 to 9x9 boards</item>
+        <item>6x6 to 9x9 boards</item>
+        <item>9x9 Boards</item>
+    </string-array>
+    <string-array name="Grid_value6">
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+        <item>9x9</item>
+    </string-array>
+    <string-array name="How_to_play6">
+        <item>How to play:</item>
+        <item>Connect each red dot to a blue dot,
+		    using only straight lines</item>
+    </string-array>
+    <!-- Connect The Dots end -->
+
+
+    <!-- Flow Blocked -->
+    <string name="app_name7">Flow Blocked</string>
+
+    <string-array name="How_to_play7">
+        <item>How to play:</item>
+        <item>- Drag to connect matching colors with pipe, creating a flow.\n
+	        - Pair all colors, cover the entire board with pipe, and avoid blocks to solve each puzzle.\n
+	        - But watch out, pipe will break if they cross or overlap! Use the bridge to cross two pipes and solve the puzzle.\n
+	        - Too easy? Try selecting a larger board or different level pack. Or see how fast you can solve in Time Trial mode.\n</item>
+    </string-array>
+    <string-array name="Name_Pack7">
+        <item>Beginner I</item>
+        <item>Beginner II</item>
+        <item>Achiever I</item>
+        <item>Achiever II</item>
+        <item>Genius I</item>
+        <item>Genius II</item>
+        <item>Block Buster (Tablet) I</item>
+        <item>Block Buster (Tablet) II</item>
+        <item>Not So Blocked I</item>
+        <item>Not So Blocked II</item>
+        <item>Not So Blocked III</item>
+        <item>Pretty Blocked I</item>
+        <item>Pretty Blocked II</item>
+        <item>Very Blocked I</item>
+        <item>Very Blocked II</item>
+        <item>Very Blocked III</item>
+        <item>Very Blocked IV</item>
+        <item>Crazy Blocked I</item>
+        <item>Crazy Blocked II</item>
+        <item>4x4 Frenzy I</item>
+        <item>4x4 Frenzy II</item>
+        <item>5x5 Frenzy I</item>
+        <item>5x5 Frenzy II</item>
+        <item>6x6 Frenzy I</item>
+        <item>6x6 Frenzy II</item>
+        <item>7x7 Frenzy I</item>
+        <item>7x7 Frenzy II</item>
+        <item>8x8 Frenzy I</item>
+        <item>8x8 Frenzy II</item>
+        <item>9x9 Frenzy I</item>
+        <item>9x9 Frenzy II</item>
+        <item>10x10 Frenzy (Tablet) I</item>
+        <item>10x10 Frenzy (Tablet) II</item>
+        <item>Super Frenzy (Tablet) I</item>
+        <item>Super Frenzy (Tablet) II</item>
+        <item>Ultimate Frenzy (Tablet) I</item>
+        <item>Ultimate Frenzy (Tablet) II</item>
+        <item>Blocks with Bridges I</item>
+        <item>Blocks with Bridges II</item>
+        <item>Novice Bridge I</item>
+        <item>Novice Bridge II</item>
+        <item>Intermediate Bridge I</item>
+        <item>Intermediate Bridge II</item>
+        <item>Advanced Bridge I</item>
+        <item>Advanced Bridge II</item>
+        <item>Expert Bridge I</item>
+        <item>Expert Bridge II</item>
+        <item>Master Bridge</item>
+        <item>Legend Bridge I</item>
+        <item>Legend Bridge II</item>
+    </string-array>
+    <string-array name="Intro_Pack7">
+        <item>5x5 Boards</item>
+        <item>6x6 Boards</item>
+        <item>7x7 Boards</item>
+        <item>8x8 Boards</item>
+        <item>9x9 Boards</item>
+        <item>10x10 Boards</item>
+        <item>11x11 and 12x12 boards</item>
+        <item>13x13 and 14x14 boards</item>
+        <item>5x5 and 6x6 boards</item>
+        <item>7x7 and 8x8 boards</item>
+        <item>9x9 and 6x6 boards</item>
+        <item>7x7 and 8x8 boards</item>
+        <item>9x9 and 10x10 boards</item>
+        <item>7x7 and 8x8 boards</item>
+        <item>9x9 and 10x10 boards</item>
+        <item>11x11 and 10x10 boards</item>
+        <item>11x11 and 12x12 boards</item>
+        <item>13x13 and 14x14 boards</item>
+        <item>4x4 Boards</item>
+        <item>4x4 Boards</item>
+        <item>5x5 Boards</item>
+        <item>5x5 Boards</item>
+        <item>6x6 Boards</item>
+        <item>6x6 Boards</item>
+        <item>7x7 Boards</item>
+        <item>7x7 Boards</item>
+        <item>8x8 Boards</item>
+        <item>8x8 Boards</item>
+        <item>9x9 Boards</item>
+        <item>9x9 Boards</item>
+        <item>10x10 Boards</item>
+        <item>10x10 Boards</item>
+        <item>11x11 Boards</item>
+        <item>12x12 Boards</item>
+        <item>13x13 Boards</item>
+        <item>14x14 Boards</item>
+        <item>5x5 to 8x8 boards</item>
+        <item>9x9 to 12x12 boards</item>
+        <item>5x5 Boards</item>
+        <item>6x6 Boards</item>
+        <item>7x7 Boards</item>
+        <item>8x8 Boards</item>
+        <item>9x9 Boards</item>
+        <item>10x10 Boards</item>
+        <item>11x11 Boards</item>
+        <item>12x12 Boards</item>
+        <item>13x13 Boards</item>
+        <item>13x13 Boards</item>
+        <item>14x14 Boards</item>
+        <item>14x14 Boards</item>
+    </string-array>
+
+    <!-- Touch Point -->
+    <string name="app_name8">Touch Dots</string>
+    <string name="SelectLevel">Select Level</string>
+
+    <string-array name="ListLevel">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="How_to_play8">
+        <item>Tap the dot to move lines.</item>
+        <item>Dark color lines move slower.</item>
+        <item>Bright color lines move faster.</item>
+        <item>The dots must touch each other.</item>
+    </string-array>
+
+    <!-- Glow Free -->
+    <string name="app_name9">Glow Dots</string>
+
+    <string-array name="How_to_play9">
+        <item>How to play:</item>
+        <item>	        - Connect all the dots in the puzzle with a continuous path without reusing any completed path.\n
+			- Use hints if you got stuck.\n</item>
+    </string-array>
+    <string-array name="Name_Pack9">
+        <item>Red Pack</item>
+        <item>Green Pack</item>
+        <item>Blue Pack</item>
+        <item>Orange Pack</item>
+        <item>Yellow Pack</item>
+        <item>Violet Pack</item>
+        <item>Cyan Pack</item>
+        <item>Chartreuse Pack</item>
+        <item>Pink Pack</item>
+        <item>Oliver Pack</item>
+        <item>Frendora Pack</item>
+        <item>Ochref Pack</item>
+        <item>Asparagus Pack</item>
+        <item>Pastel Pink Pack</item>
+        <item>Sienna Pack</item>
+        <item>Dark Slate Gray Pack</item>
+        <item>Alice Blue Pack</item>
+        <item>Quiet Blue Pack</item>
+        <item>Quiet Violet Pack</item>
+        <item>Quiet Yellow Pack</item>
+    </string-array>
+    <string-array name="Dialog_Completed9">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME}{ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="Dialog_CompletedEnd9">
+        <item>Congratulations!</item>
+        <item>You\'ve reached the end of</item>
+        <item>the {STRING_NAME_PACK}.</item>
+        <item>Select Next Pack</item>
+        <item>Play Again</item>
+    </string-array>
+
+    <!-- Matchup Blitz -->
+    <string name="app_name10">Matchup Blitz</string>
+    <string name="Continue">Continue</string>
+    <string name="Select_Grade">Select Mode</string>
+
+    <string-array name="How_to_play10">
+        <item>How to play:</item>
+        <item>Match 3 or more color shapes in a row vertically or diagonally to win and score more points before time runs out.</item>
+    </string-array>
+    <string-array name="Grade">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="Dialog_Completed10">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>and scored {SCORE} points.</item>
+        <item>Next Level</item>
+        <item>Home</item>
+    </string-array>
+    <string-array name="Dialog_TimeUp10">
+        <item>Time\'s up!</item>
+        <item>Game Over!</item>
+        <item>You scored {SCORE} points.</item>
+        <item>Play Again</item>
+        <item>Home</item>
+    </string-array>
+    <string-array name="Dialog_NoMove10">
+        <item>No more moves</item>
+        <item>Game over!</item>
+        <item>You scored {SCORE} points.</item>
+        <item>Play Again</item>
+        <item>Home</item>
+    </string-array>
+
+    <!-- flow cube -->
+    <string name="app_name11">Flow Cube</string>
+    <string name="flow_cube">Flow Cube</string>
+    <string name="play">Play</string>
+    <string name="Help_about1">        - To complete the puzzle, link every pair of similar colored cells.\n
+        - Tap on the marked colored cell (with black border) to select the color.\n
+          you can tap on other cells to color them with the selected color, or\n
+          optionally you can drag to color multiple cells. Marked colored cells will
+          light up when connected.\n
+        - You cannot link cells diagonally. Cross cells are blocked.\n
+        - If you break an existing link, reselect the color of the broken \n
+           link by tapping on one of the marked colored cells and fill the gaps.\n
+        -Hint: Often the direct route is not the correct solution.</string>
+
+    <!-- Dots -->
+
+    <string name="dots">Dots and Boxes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="oneplayer">One Player</string>
+    <string name="twoplayer">Two Player</string>
+    <string name="about">About</string>
+    <string name="playerone">Player One</string>
+    <string name="playertwo">Player Two</string>
+    <string name="ai">Android</string>
+    <string name="gameovershow">Game Over !!</string>
+    <string name="gamedraw">No Winner</string>
+    <string name="gamedraw2">Game Draw</string>
+
+    <string-array name="Dialog_Completed_dots">
+        <item>Game Over !!</item>
+        <item>No Winner</item>
+        <item>Game Draw</item>
+        <item>Play Again</item>
+        <item>Main menu</item>
+    </string-array>
+
+    <string name="About_game">    - Make line to connect two dots forming a square. \n
+    - Whoever makes more squares wins the game</string>
+
+    <!-- Dots -->
+
+    <string-array name="Game_Name">
+        <item>Flow Connect</item>
+        <item>Flow Bridge</item>
+        <item>Crystal Flow</item>
+        <item>Connects Dots</item>
+        <item>Connect 7x7</item>
+        <item>Flow Branch</item>
+        <item>Bust and Flow</item>
+        <item>Connect Odd Dots</item>
+        <item>Flow Blocked</item>
+        <item>Touch Dots</item>
+        <item>Glow Dots</item>
+        <item>Match Up Blitz</item>
+        <item>Block Buster</item>
+        <item>Flow Cube</item>
+        <item>Dots and Boxes</item>
+        <item>Shuffle Dots</item>
+        <item>Flow Bend</item>
+        <item>Four In A Line</item>
+        <item>Power Flow</item>
+        <item>Connect It</item>
+        <item>Move The Box</item>
+        <item>Tic Tac Toe</item>
+        <item>Connect All</item>
+        <item>Color Stack</item>
+        <item>Light Out</item>
+        <item>Line Sweeper</item>
+        <item>Unblock</item>
+        <item>Box Flow</item>
+        <item>Connect</item>
+        <item>Block Puzzle</item>
+    </string-array>
+
+    <!-- Block Buster -->
+    <string name="app_name13">Block Buster</string>
+
+    <string-array name="How_to_play13">
+        <item>How to play:</item>
+        <item>- Tap on 4 or more connected blocks of same color to bust them.\n 
+		    - Clear all blocks to solve the puzzle.</item>
+    </string-array>
+    <string-array name="Name_Pack13">
+        <item>Pack 1</item>
+        <item>Pack 2</item>
+        <item>Pack 3</item>
+        <item>Pack 4</item>
+        <item>Pack 5</item>
+        <item>Pack 6</item>
+        <item>Pack 7</item>
+        <item>Pack 8</item>
+        <item>Pack 9</item>
+        <item>Pack 10</item>
+        <item>Pack 11</item>
+        <item>Pack 12</item>
+        <item>Pack 13</item>
+        <item>Pack 14</item>
+        <item>Pack 15</item>
+        <item>Pack 16</item>
+        <item>Pack 17</item>
+        <item>Pack 18</item>
+        <item>Pack 19</item>
+        <item>Pack 20</item>
+        <item>Pack 21</item>
+        <item>Pack 22</item>
+        <item>Pack 23</item>
+        <item>Pack 24</item>
+        <item>Pack 25</item>
+        <item>Pack 26</item>
+        <item>Pack 27</item>
+        <item>Pack 28</item>
+        <item>Pack 29</item>
+        <item>Pack 30</item>
+        <item>Pack 31</item>
+        <item>Pack 32</item>
+    </string-array>
+    <string-array name="Intro_Pack13">
+        <item>5x5 Boards</item>
+        <item>6x6 Boards</item>
+        <item>7x7 Boards</item>
+        <item>8x8 Boards</item>
+        <item>9x9 Boards</item>
+        <item>5x5 Boards</item>
+        <item>5x5 and 6x6 Boards</item>
+        <item>6x6 Boards</item>
+        <item>7x7 Boards</item>
+        <item>6x6 and 7x7 Boards</item>
+        <item>8x8 and 9x9 Boards</item>
+        <item>6x6 and 7x7 Boards</item>
+        <item>8x8 and 9x9 Boards</item>
+        <item>6x6 and 7x7 Boards</item>
+        <item>8x8 and 9x9 Boards</item>
+        <item>6x6 and 7x7 Boards</item>
+        <item>8x8 and 9x9 Boards</item>
+        <item>9x9 Boards</item>
+        <item>9x9 Boards</item>
+        <item>10x10 Boards</item>
+        <item>10x10 Boards</item>
+        <item>11x11 Boards</item>
+        <item>11x11 Boards</item>
+        <item>12x12 Boards</item>
+        <item>12x12 Boards</item>
+        <item>13x13 Boards</item>
+        <item>13x13 Boards</item>
+        <item>5x5 and 6x6 Boards</item>
+        <item>6x6 and 7x7 Boards</item>
+        <item>7x7 and 8x8 Boards</item>
+        <item>9x9 and 11x11 Boards</item>
+        <item>9x9 and 10x10 Boards</item>
+    </string-array>
+
+    <string name="Color">Color:</string>
+
+    <string-array name="Dialog_Completed13">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME}{ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="Got_Hint13">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="Dialog_CompletedEnd13">
+        <item>Congratulations!</item>
+        <item>You\'ve reached the end of</item>
+        <item>the {STRING_NAME_PACK}.</item>
+        <item>Select Next Pack</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="Dialog_NewRecord13">
+        <item>New record!</item>
+        <item>You solved {NUM_PUZZLES_SOLVED} puzzles in</item>
+        <item>{STRING_TIME_SELECTED}.</item>
+        <item>Play Again</item>
+        <item>Quit</item>
+    </string-array>
+    <string-array name="Dialog_TimeUp13">
+        <item>Time\'s up!</item>
+        <item>You solved {NUM_PUZZLES_SOLVED} puzzles in</item>
+        <item>{STRING_TIME_SELECTED}.</item>
+        <item>Play Again</item>
+        <item>Quit</item>
+    </string-array>
+    <string-array name="Dialog_Unmatch13">
+        <item>Game Over</item>
+        <item>But there are few</item>
+        <item>unmatched blocks left</item>
+        <item>Play Again</item>
+        <item>Continue</item>
+    </string-array>
+
+    <string name="select_level">Select Level</string>
+    <string name="select_grid">Select Grid</string>
+    <string name="start">Start</string>
+
+    <string-array name="grids">
+        <item>5 x 5</item>
+        <item>6 x 6</item>
+    </string-array>
+
+    <string name="no_hints_left">You have no hints left!</string>
+    <string name="use_hint">Use Hint!</string>
+    <string name="Play_Again">Play Again</string>
+    <string name="Restart_Level">Restart Level</string>
+    <string name="shuffledots">Shuffle Dots</string>
+    <string name="best">Best </string>
+    <string name="moves">Moves </string>
+    <string name="complete">Complete: </string>
+    <string name="Reset">Reset</string>
+    <string name="for_using_hint">For using hint</string>
+    <string name="You_need_to_restart">You need to restart level again.</string>
+    <string name="Are_You_Sure_to_quit">Are you sure, you want to exit this game?</string>
+    <string name="are_you_sure_to_restart">Are you sure, you want to restart the game?</string>
+    <string name="helpText">        1. The main objective of this game is to line
+   up each of the circles to their corresponding 
+   colors on each side of the square board\n
+
+2. Notice the colors on each side of the game
+   board \n
+
+	RED -> TOP \n
+	BLUE -> LEFT \n
+	YELLOW -> BOTTOM \n
+	GREEN -> RIGHT \n
+
+3. Now try to move the circle and place them at 
+   the correct position. \n
+
+4. For eg., all the green circles must be placed
+   at bottom to the board. Similarly all other 
+   circle must be placed in a similar way. \n
+
+5. You cannot move the circle through a 
+   square with the same color.</string>
+    <string name="hints">Hints:</string>
+
+    <!-- flowbend start -->
+    <string name="flowbend">Flow Bend</string>
+
+    <string-array name="flowbend_pack_name">
+        <item>Normal Pack</item>
+        <item>Intermediate Pack</item>
+        <item>Easy Pack</item>
+        <item>8x8 Mania Pack</item>
+        <item>9x9 Mania Pack</item>
+        <item>Tablet(Expert) Pack</item>
+    </string-array>
+    <string-array name="flowbend_grid_name">
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 6x6 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+        <item>10x10 to 12x12 grid</item>
+    </string-array>
+    <!-- flowbend end -->
+
+
+    <!-- four in a row strat -->
+
+    <string name="four_in_row">Four In A Row</string>
+    <string name="select_dificulty">SELECT DIFFICULTY</string>
+    <string name="who_play_first">WHO PLAYS FIRST</string>
+    <string name="two_player">Two player!</string>
+    <string name="play_with_android">Play with android</string>
+    <string name="game_over">GAME OVER!!</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="extra_hard">EXTRA HARD</string>
+    <string name="android">Android</string>
+    <string name="player">Player</string>
+    <string name="player_win">You won the game</string>
+    <string name="android_win">Android wins the game</string>
+    <string name="blank"></string>
+    <string name="draw">Game Draw!</string>
+    <string name="congratulation">Congratulations!</string>
+    <string name="player1">Player One Wins</string>
+    <string name="player2">Player Two Wins</string>
+    <string name="four_line_Help_about">        -Select the column you wish to drop your piece in.\n
+		-Touch the screen to drop your piece\n
+		-When you can connect four pieces vertically, horizontally or diagonally you win        </string>
+
+    <string-array name="play_again_main_menu">
+        <item>Play Again</item>
+        <item>MAIN MENU</item>
+    </string-array>
+    <!-- four in a row end -->
+
+
+    <!-- power flow start -->
+    <string name="powerflow">Power Flow</string>
+
+    <string-array name="powerflow_pack_name">
+        <item>Beginner Pack</item>
+        <item>Easy Pack</item>
+        <item>Normal Pack</item>
+        <item>Hard Pack</item>
+        <item>Tablet(Expert) Pack</item>
+    </string-array>
+    <string-array name="powerflow_grid_name">
+        <item>5x5 grid</item>
+        <item>6x6 grid</item>
+        <item>7x7 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+    </string-array>
+
+    <!-- power flow end -->
+
+
+    <!-- connect it start -->
+    <string name="connectit">Connect It</string>
+
+    <string-array name="connectit_pack_name">
+        <item>Kiddy Pack</item>
+        <item>Beginner Pack</item>
+        <item>Normal Pack</item>
+        <item>Intermediate Pack</item>
+        <item>Expert Pack</item>
+    </string-array>
+    <string-array name="connectit_grid_name">
+        <item>5x5 grid</item>
+        <item>6x6 grid</item>
+        <item>7x7 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+    </string-array>
+
+    <string name="Help_connect_it">        - Start by dragging the numbered cell to make a incremental sequence.\n
+        - Goal is to connect all the numbered cell in the board.\n
+        - You can overlap or cross the pipes.\n
+        - Level of difficulty increases as you play on large sized boards.\n</string>
+    <!-- connect it end -->
+
+    <string name="new_version_available">New update is available in Google Play with more free brain and puzzle games.</string>
+    <string name="Yes_Download">Yes Download</string>
+    <string name="Not_Now">Not Now</string>
+    <string name="disagree_msg">Unfortunately you missed more new games!</string>
+
+    <!-- move the Box start -->
+
+    <string name="app_name_movethebox">MoveTheBox</string>
+    <string name="action_settings__movethebox">Settings</string>
+    <string name="play_game__movethebox">Play Game</string>
+    <string name="Moves_movethebox">Moves:</string>
+    <string name="Best_movethebox">Best:</string>
+    <string name="Solved_movethebox">Solved:</string>
+    <string name="Cancel_movethebox">Cancel</string>
+    <string name="All_progess_resetted_movethebox">All progress resetted.</string>
+    <string name="Yes_movethebox">Yes</string>
+    <string name="Reset_setting_line_movethebox">Are you sure to reset all progress? This will reset all levels completed, scores and hints.</string>
+    <string name="level_movethebox">Level</string>
+
+    <string-array name="pack_name_movethebox">
+        <item>Pack 1</item>
+        <item>Pack 2</item>
+        <item>Pack 3</item>
+        <item>Pack 4</item>
+        <item>Pack 5</item>
+        <item>Pack 6</item>
+        <item>Pack 7</item>
+    </string-array>
+    <string-array name="grid_name_movethebox">
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+        <item>24 Levels</item>
+    </string-array>
+
+    <string name="Select_Pack_movethebox">Select Pack</string>
+    <string name="got_movethebox">and got</string>
+    <string name="hint_movethebox">Hint</string>
+
+    <string-array name="end_game_movethebox">
+        <item>Done</item>
+        <item>Perfect !!</item>
+        <item>You completed the level</item>
+        <item>and got 2 hints</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+        <item>Got 1 Hint</item>
+    </string-array>
+
+    <string name="reset_progress_movethebox">Reset Progress</string>
+    <string name="Help_movethebox">Help</string>
+    <string name="Help_about_movethebox">The goal is to clear all boxes by moving each box to match same color</string>
+    <string name="About_movethebox">About</string>
+
+    <!-- move the Box end -->
+
+
+    <!-- tictactoe start -->
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="connectfour">Connect 4</string>
+    <string name="connectfive">Connect 5</string>
+    <string name="three">3 x 3</string>
+    <string name="five">5 x 5</string>
+    <string name="seven">7 x 7</string>
+    <string name="nine">9 x 9</string>
+    <string name="help_about_tictactoe">Tic-tac-toe game strategy:\n
+          -Win: If the player has two in a row, play the third to get three in a row.\n
+-Block: If the opponent has two in a row, play the third to block them.\n
+-Fork: Create an opportunity where you can win tic tac toe game in two ways.\n</string>
+    <string name="help">Help</string>
+
+    <!-- connect all simple start -->
+    <string name="connectall">Connect All</string>
+
+    <string-array name="connectsimple_pack_name">
+        <item>Kids Pack</item>
+        <item>6x6 Mania Pack</item>
+        <item>7x7 Mania Pack</item>
+        <item>Normal Pack</item>
+        <item>Intermediate Pack</item>
+        <item>Expert Pack</item>
+        <item>Smart Pack</item>
+        <item>Lucky Pack</item>
+        <item>Super Pack</item>
+    </string-array>
+    <string-array name="connectsimple_grid_name">
+        <item>4x4 grid</item>
+        <item>6x6 grid</item>
+        <item>7x7 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>5x5 to 9x9 grid</item>
+        <item>7x7 to 9x9 grid</item>
+        <item>5x5 to 7x7 grid</item>
+        <item>5x5 to 7x7 grid</item>
+        <item>5x5 to 7x7 grid</item>
+    </string-array>
+
+    <string name="Help_connect_all">    	
+        - Start by dragging the smallest numbered dot to the next numbered dot.\n
+        - Goal is to connect all numbered dots in ascending order covering the whole board with pipes.\n
+        - You cannot overlap or cross the pipes.\n
+        - Level of difficulty increases as you play on large sized boards.\n</string>
+    <string name="hint_finish">You don\'t have hint</string>
+    <!-- connect all simple end -->
+
+
+    <!-- color stack start -->
+    <string name="colorstack_help">Help</string>
+    <string name="colorstack">Color Stack</string>
+
+    <string-array name="Sound">
+        <item>Sound: On</item>
+        <item>Sound: Off</item>
+    </string-array>
+
+    <string name="Gameover">Game Over!</string>
+    <string name="More_Games">More Games</string>
+    
+    <string-array name="Help_color_stack">
+        <item>How to play:</item>
+        <item>
+     	- Make stack of the moving block just above the other one.\n
+        - The block size decreases if the block miss the exact alignment.\n
+        - Game ends when you completly miss to align the moving block.\n
+		</item>
+    </string-array>
+    
+    <!-- color stack end -->
+
+
+    <!-- light out start -->
+    <string name="lightout_help">Help</string>
+    <string name="lightout">Light Out</string>
+
+    <string-array name="lightout_Name_Pack">
+        <item>Pack 1</item>
+        <item>Pack 2</item>
+        <item>Pack 3</item>
+        <item>Pack 4</item>
+        <item>Pack 5</item>
+        <item>Pack 6</item>
+        <item>Pack 7</item>
+        <item>Pack 8</item>
+        <item>Pack 9</item>
+        <item>Pack 10</item>
+        <item>Pack 11</item>
+        <item>Pack 12</item>
+        <item>Pack 13</item>
+        <item>Pack 14</item>
+        <item>Pack 15</item>
+        <item>Pack 16</item>
+        <item>Pack 17</item>
+        <item>Pack 18</item>
+        <item>Pack 19</item>
+        <item>Pack 20</item>
+        <item>Pack 21</item>
+        <item>Pack 22</item>
+        <item>Pack 23</item>
+        <item>Pack 24</item>
+        <item>Pack 25</item>
+        <item>Pack 26</item>
+        <item>Pack 27</item>
+        <item>Pack 28</item>
+        <item>Pack 29</item>
+        <item>Pack 30</item>
+        <item>Pack 31</item>
+        <item>Pack 32</item>
+        <item>Pack 33</item>
+        <item>Pack 34</item>
+        <item>Pack 35</item>
+        <item>Pack 36</item>
+        <item>Pack 37</item>
+        <item>Pack 38</item>
+        <item>Pack 39</item>
+        <item>Pack 40</item>
+        <item>Pack 41</item>
+        <item>Pack 42</item>
+        <item>Pack 43</item>
+        <item>Pack 44</item>
+        <item>Pack 45</item>
+        <item>Pack 46</item>
+        <item>Pack 47</item>
+        <item>Pack 48</item>
+        <item>Pack 49</item>
+        <item>Pack 50</item>
+        <item>Pack 51</item>
+        <item>Pack 52</item>
+        <item>Pack 53</item>
+        <item>Pack 54</item>
+        <item>Pack 55</item>
+        <item>Pack 56</item>
+        <item>Pack 57</item>
+        <item>Pack 58</item>
+        <item>Pack 59</item>
+        <item>Pack 60</item>
+        <item>Pack 61</item>
+        <item>Pack 62</item>
+        <item>Pack 63</item>
+        <item>Pack 64</item>
+        <item>Pack 65</item>
+        <item>Pack 66</item>
+        <item>Pack 67</item>
+        <item>Pack 68</item>
+        <item>Pack 69</item>
+        <item>Pack 70</item>
+        <item>Pack 71</item>
+        <item>Pack 72</item>
+        <item>Pack 73</item>
+        <item>Pack 74</item>
+        <item>Pack 75</item>
+        <item>Pack 76</item>
+        <item>Pack 77</item>
+        <item>Pack 78</item>
+        <item>Pack 79</item>
+        <item>Pack 80</item>
+        <item>Pack 81</item>
+        <item>Pack 82</item>
+        <item>Pack 83</item>
+        <item>Pack 84</item>
+        <item>Pack 85</item>
+        <item>Pack 86</item>
+        <item>Pack 87</item>
+        <item>Pack 88</item>
+        <item>Pack 89</item>
+        <item>Pack 90</item>
+        <item>Pack 91</item>
+        <item>Pack 92</item>
+        <item>Pack 93</item>
+        <item>Pack 94</item>
+        <item>Pack 95</item>
+        <item>Pack 96</item>
+        <item>Pack 97</item>
+        <item>Pack 98</item>
+        <item>Pack 99</item>
+        <item>Pack 100</item>
+    </string-array>
+    <string-array name="lightout_Dialog_Completed">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME}{ADD_HINT}.</item>
+        <item>Next level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="lightout_Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="lightout_Dialog_LevelLocked">
+        <item>Level Locked</item>
+        <item>You must solve previous level</item>
+        <item>to unlock this level.</item>
+        <item>Back</item>
+    </string-array>
+
+    <string name="Light">Light:</string>
+
+    <string-array name="Help_light_out">
+        <item>How to play:</item>
+        <item>
+     	- Tapping on a cell toggles that cell and each of its immediate neighbours.\n
+        - The goal is to turn out all the lights.\n		</item>
+    </string-array>
+
+    <!-- light out end -->
+
+
+    <!-- line sweeper start -->
+    <string name="linesweeper_help">Help</string>
+    <string name="linesweeper">Line Sweeper</string>
+
+    <string-array name="linesweeper_Name_Pack">
+        <item>Board 6x6</item>
+        <item>Board 7x7</item>
+        <item>Board 8x8</item>
+        <item>Board 9x9</item>
+        <item>Board 10x10</item>
+    </string-array>
+    <string-array name="linesweeper_Dialog_Completed">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME} {ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="linesweeper_Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="linesweeper_Dialog_CompletedEnd">
+        <item>Congratulations!</item>
+        <item>You\'ve reached the end of</item>
+        <item>the {STRING_NAME_PACK}.</item>
+        <item>Select next pack</item>
+        <item>Play again</item>
+    </string-array>
+
+    <string name="Solve">Solve:</string>
+    <string-array name="Help_linesweeper">
+        <item>How to play:</item>
+        <item>
+     	- Draw a closed loop of line by draging.\n
+        - The orange coloured cells contains number which represents the number of adjacent sides the line should touch.\n
+        - A closed loop of line touching the adjacent side of orange cells completes the level.\n
+		</item>
+    </string-array>
+    
+    <!-- line sweeper end -->
+
+
+    <!-- unblock start -->
+    <string name="unblock_help">Help</string>
+    <string name="unblock">Unblock</string>
+
+    <string-array name="unblock_Name_Pack">
+        <item>Pack 1</item>
+        <item>Pack 2</item>
+        <item>Pack 3</item>
+        <item>Pack 4</item>
+        <item>Pack 5</item>
+        <item>Pack 6</item>
+        <item>Pack 7</item>
+        <item>Pack 8</item>
+        <item>Pack 9</item>
+        <item>Pack 10</item>
+        <item>Pack 11</item>
+        <item>Pack 12</item>
+        <item>Pack 13</item>
+        <item>Pack 14</item>
+        <item>Pack 15</item>
+        <item>Pack 16</item>
+        <item>Pack 17</item>
+        <item>Pack 18</item>
+        <item>Pack 19</item>
+    </string-array>
+
+    <string name="Solving">Solving...</string>
+    <string name="Hinting">Show Hint...</string>
+
+    <string-array name="unblock_Dialog_Completed">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in {MOVE} move {ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="unblock_Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="Help_unblock">
+        <item>How to play:</item>
+        <item>
+     	- The goal is to slide out the yellow block out of the board relocating other blocks\n
+        - Each block slides either horizontally or vertically only.\n
+		</item>
+    </string-array>
+    
+    <!-- unblock end -->
+    
+    <!--  box flow start -->
+    <string name="boxflow">Box Flow</string>
+     <string-array name="boxFlow_How_to_play">
+        <item>How to Play:</item>
+		<item>
+	        - Touch by draging the colored cell to fill the board.\n
+	        - The goal is to fill up the board with colors on each cell which is specified in the main colored cell. 
+		</item>
+    </string-array>
+    
+	<string-array name="boxFlow_Name_Pack">
+        <item>Pack 1</item>
+        <item>Pack 2</item>
+    </string-array>
+    
+	<string-array name="boxFlow_Dialog_Completed">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME}{ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="boxFlow_Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <!--  box flow end -->
+
+	<!--  connect start -->
+	<string name = "connect">Connect</string>
+	<string name="Dot">Dot:</string>
+	<string-array name="connect_How_to_play">
+        <item>How to Play:</item>
+		<item>
+	        - Drag the orange colored dots so that the line intersects all red dots \n
+	        - When all red dots are intersected and it turns out into white dots you level up.
+		</item>
+    </string-array>
+	<string-array name="connect_Name_Pack">
+        <item>Easy Pack 1</item>
+        <item>Easy Pack 2</item>
+        <item>Hard Pack 1</item>
+        <item>Hard Pack 2</item>
+    </string-array>
+    
+	<string-array name="connect_Dialog_Completed">
+        <item>Perfect!</item>
+        <item>You completed the level</item>
+        <item>in time {TIME}{ADD_HINT}.</item>
+        <item>Next Level</item>
+        <item>Play Again</item>
+    </string-array>
+    <string-array name="connect_Got_Hint">
+        <item>and got 1 hint</item>
+        <item>and got 2 hints</item>
+    </string-array>
+    <string-array name="connect_Dialog_LevelLocked">
+        <item>Level Locked</item>
+        <item>You must solve previous level</item>
+        <item>to unlock this level.</item>
+        <item>Back</item>
+    </string-array>
+<!--  connect end -->
+<!--  block puzzle start -->
+ <string name ="block_puzzle">Block Puzzle</string>
+    <string name="countTime_time_and_got_1_hint">in {COUNT_TIME} seconds and got 1 hint.</string>
+    <string name="in_countTime_Time">in {COUNT_TIME} seconds</string>
+    <string name="pack">Pack</string>
+    <string-array name="grids_block_puzzle">
+        <item>6x6 grid</item>
+        <item>7x7 grid</item>
+        <item>8x8 grid</item>
+        <item>9x9 grid</item>
+        <item>10x10 grid</item>
+    </string-array>	
+        <string name="in_the_best_time">in the best time.</string>
+   <string name="in_the_best_time_and_got_2_hints">in the best time and got 2 hints.</string>
+   
+   <string name="blockpuzzle_help">
+       \t	#\t	Select the block and place it on a rectangular block where it is most relevant
+       \n\n\t	#\t Then fill up the block pieces
+       \n\n\t #\t There are 16 different packages to play you can select any of them
+       \n\n\t	#\t If you are stuck somewhere in the middle of the game then you can use hint
+       \n\n\t	#\t	If you finish the game within 60 seconds then you will gain two additional hints, otherwise you will gain only one hint
+
+   </string>
+    
+    <!-- block puzzle end -->
+    
+    <!-- Color swap start -->
+    	<string name="color_swap">Color Swap</string>
+    	<string name = "you_are_out_of_moves">You are out of moves</string>
+    	<string name ="colorswap_help">
+    	    
+    	    \t #\t The game starts from point S
+    	    \n\n\t #\t You can choose random color that are close to the start point
+    	    \n\n\t # \t After selecting any one random color, the color of start point changes to the selected point
+    	    \n\n\t #\t Now all the edge points will be a new start point and you can pick any random color that are close to the new start point
+    	    \n\n\t #\t The game completes if all the color in the board is same
+    	    \n\n\t #\t You must complete the game in best move or a move higher than the best move, otherwise the game is over
+    	    \n\n\t #\t You will gain 2 hints if game ends in best move or less else you will gain only 1 move
+    	      
+    	</string>
+    
+    <!-- Color swap end -->
+    
+    
+    <!-- ClearAllBlock start-->
+    
+    <string name = "clearallblock">Clear All Block</string>
+    <string name = "no_more_moves">No more moves </string>
+    <string name="need_to_restart_the_game">You need to restart the game</string>
+    <string name="completed_using_hint">Game completed using hint</string>
+    
+      <string-array name="grids_clearallblock">
+        <item>3x3 grid</item>
+        <item>3x4 grid</item>
+        <item>3x5 grid</item>
+        <item>4x3 grid</item>
+        <item>4x4 grid</item>
+        <item>4x5 grid</item>
+        <item>5x3 grid</item>
+        <item>5x4 grid</item>
+        <item>5x5 grid</item>
+        
+    </string-array>	
+    
+    <string name="help_text_clearallblocks">
+        
+          
+    	    \t #\t 	
+    	    \n\n\t #\t 
+    	    \n\n\t # \t 
+    	    \n\n\t #\t 
+    	    \n\n\t #\t 
+    	    \n\n\t #\t 
+    	    \n\n\t #\t 
+    </string>
+    <!-- ClearAllBlock--> 
+    
+    <!-- Move'it start-->
+    
+    <string name = "Moveit">Move\'it</string>
+    <string name = "moveit_help">
+         \t #\t 
+    	    \n\n\t #\t You can swipe the ball in four different direction that is, left, right , up down
+    	    \n\n\t # \t Balls always move, unless the ared BLOCKED
+    	    \n\n\t #\t	All the balls moves at once if there are no obstacles
+    	    \n\n\t #\t  The game end when all the ball is placed to the grids with thier corresponding colors
+    	    \n\n\t #\t	The must be completed before the moves ends
+
+    </string> 
+</resources>
